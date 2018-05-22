@@ -1,6 +1,6 @@
 # marking_trees
 
-This is my solution to the "Marking Tree" problem.
+This is my solution to the "[Marking Tree](https://www.eecs.harvard.edu/~michaelm/postscripts/sigact2001b.pdf)" problem.
 
 ### Background
 Consider a complete binary tree of height h > 1 with N = 2**h - 1 nodes.
